@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="orange_obj" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 477.63">
+  <defs>
+    <style>
+      .orange-cls-1 {
+        fill: #f7941d;
+        stroke-width: 10px;
+      }
+
+      .orange-cls-1, .orange-cls-2, .orange-cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .orange-cls-2 {
+        fill: #00a651;
+      }
+
+      .orange-cls-2, .orange-cls-3 {
+        stroke-width: 3px;
+      }
+
+      .orange-cls-3 {
+        fill: #231f20;
+      }
+
+      .orange-cls-4 {
+        fill: #f15a29;
+      }
+    </style>
+  </defs>
+  <g id="orange">
+    <circle class="orange-cls-1" cx="195" cy="282.63" r="190"/>
+    <polygon class="orange-cls-4" points="195 101.18 199.62 115.39 214.56 115.39 202.47 124.17 207.09 138.39 195 129.6 182.91 138.39 187.53 124.17 175.44 115.39 190.38 115.39 195 101.18"/>
+  </g>
+  <g id="orange_stem">
+    <path class="orange-cls-2" d="M232.91,36.34c-5.74,6.34-15.54,6.83-21.88,1.09S195,2.03,195,2.03c0,0,30.48,6.7,36.82,12.44,6.34,5.74,6.83,15.54,1.09,21.88Z"/>
+    <path class="orange-cls-3" d="M254.22,12.73c-4.04,4.82-8.84,10.85-14,18-31.96,44.33-47.24,89.94-45,91,1.69.8,15.37-22.76,59-109Z"/>
+  </g>
+</svg>
