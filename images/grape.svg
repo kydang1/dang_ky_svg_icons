@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493.13 591.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+
+      .cls-2 {
+        fill: #7f3f98;
+      }
+
+      .cls-3 {
+        fill: #009444;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="stem">
+    <polygon class="cls-4" points="300.53 178.04 283.91 166.17 335.73 101.76 352.61 80.77 361.19 69.29 373.7 51.95 382.02 39.1 393.7 17.31 399.32 4.5 411.16 4.5 405.63 18.94 395.33 40.51 386.17 56.45 377.86 69.5 369.3 83.76 351.06 108.77 300.53 178.04"/>
+    <path class="cls-3" d="M478.62,244.06s-79.32-62.59-89.55-89.17c-10.22-26.59,3.04-56.43,29.63-66.65,26.59-10.22,56.43,3.04,66.65,29.63,10.22,26.59-6.73,126.19-6.73,126.19Z"/>
+    <line class="cls-1" x1="401.76" y1="27.04" x2="478.62" y2="244.06"/>
+  </g>
+  <g id="grape">
+    <circle class="cls-2" cx="71.75" cy="524.33" r="62.5"/>
+    <circle class="cls-2" cx="67" cy="429.39" r="62.5"/>
+    <circle class="cls-2" cx="165.39" cy="483.98" r="62.5"/>
+    <circle class="cls-2" cx="254" cy="435.28" r="62.5"/>
+    <circle class="cls-2" cx="165.39" cy="378.31" r="62.5"/>
+    <circle class="cls-2" cx="79.14" cy="322.93" r="62.5"/>
+    <circle class="cls-2" cx="92.94" cy="215.32" r="62.5"/>
+    <circle class="cls-2" cx="173.64" cy="260.43" r="62.5"/>
+    <circle class="cls-2" cx="260.68" cy="322.93" r="62.5"/>
+    <circle class="cls-2" cx="347.71" cy="385.43" r="62.5"/>
+    <circle class="cls-2" cx="343.75" cy="277.82" r="62.5"/>
+    <circle class="cls-2" cx="260.68" cy="208.2" r="62.5"/>
+    <circle class="cls-2" cx="180.76" cy="152.82" r="62.5"/>
+  </g>
+</svg>
